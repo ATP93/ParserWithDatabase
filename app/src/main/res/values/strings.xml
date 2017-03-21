@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Parser With Database</string>
+    <string name="run_sql">RUN SQL</string>
+</resources>

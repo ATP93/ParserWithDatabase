@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sql>
+    <queries>
+        <query>CREATE TABLE users (id int, name varchar(255), pass varchar(255));</query>
+        <query>INSERT INTO users(id, name, pass) VALUES (1, 'username', '123456')</query>
+        <!--query>SELECT * FROM users;</query-->
+        <!--query>CREATE INDEX idx_name ON users (name);</query-->
+    </queries>
+</sql>
